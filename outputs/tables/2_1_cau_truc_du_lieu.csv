@@ -1,0 +1,7 @@
+﻿Thuộc tính,ads_network_data.csv,country_performance_data.csv
+Số dòng,6,101
+Số cột,4,4
+Tên cột,"Ads Network, Install, Cost, Revenue","Country, Install, Cost, Revenue"
+Tổng Install,116388,116388
+Tổng Cost (USD),24018.58,24018.58
+Tổng Revenue (USD),13595.35,13595.35
